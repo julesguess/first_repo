@@ -1,2 +1,2 @@
-# firs
-# welcome to 2025 t_repo
+# first repo
+# welcome to 2025
